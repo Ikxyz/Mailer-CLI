@@ -1,0 +1,25 @@
+{
+  "name": "mailer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Ikxyz/Mailer-CLI.git"
+  },
+  "author": "ikxyz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ikxyz/Mailer-CLI/issues"
+  },
+  "homepage": "https://github.com/Ikxyz/Mailer-CLI#readme",
+  "dependencies": {
+    "@types/inquirer": "^6.5.0",
+    "@types/nodemailer": "^6.4.0",
+    "inquirer": "^7.1.0",
+    "nodemailer": "^6.4.8"
+  }
+}
